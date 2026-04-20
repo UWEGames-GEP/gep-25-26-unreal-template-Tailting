@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Admin/Downloads/gep-25-26-unreal-template-Tailting/GEP_Template/Content/Programming_folder/WBP_InventoryMenu.uasset",
+				"C:/Users/Admin/Downloads/gep-25-26-unreal-template-Tailting/GEP_Template/Content/Programming_folder/E_GameState.uasset",
+				"C:/Users/Admin/Downloads/gep-25-26-unreal-template-Tailting/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Admin/Downloads/gep-25-26-unreal-template-Tailting/GEP_Template/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Admin/Downloads/gep-25-26-unreal-template-Tailting/GEP_Template/Content/Programming_folder/BP_GameManager.uasset",
+				"C:/Users/Admin/Downloads/gep-25-26-unreal-template-Tailting/GEP_Template/Content/Programming_folder/BP_Item.uasset",
+				"C:/Users/Admin/Downloads/gep-25-26-unreal-template-Tailting/GEP_Template/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"C:/Users/Admin/Downloads/gep-25-26-unreal-template-Tailting/GEP_Template/Content/Programming_folder/WBP_InventoryButton.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
